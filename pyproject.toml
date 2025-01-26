@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "threads-insights-sdk"
+version = "0.1.0"
+authors = [
+    { name="Dmitrii Annenkov", email="d.annenkov97@gmail.com" }
+]
+
+description = "A Python client for Threads Insights"
+readme = "README.md"
+requires-python = ">=3.7"
+license = "MIT"
+keywords = ["threads", "api", "client", "insights"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/annenkovdmitrii/Threads-Insights-sdk"
