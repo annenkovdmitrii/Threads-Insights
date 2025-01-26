@@ -1,4 +1,4 @@
-# Threads Insights SDK
+# Threads Insights
 
 A Python client for interacting with the Threads API, designed to simplify token exchanges, insights retrieval, and thread fetching. This SDK also provides utilities for converting API responses into pandas DataFrames for easier data analysis.
 
